@@ -1,5 +1,3 @@
 # color-cycle
 
-Inspired by [Florin pop's app ideas](https://github.com/florinpop17/app-ideas).
-
-https://hardcore-joliot-fc1b6c.netlify.com
+Inspired by [Florin pop's app ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Color-Cycle-App.md).
